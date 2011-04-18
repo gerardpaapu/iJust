@@ -1,0 +1,12 @@
+I Just
+====
+
+`ijust` is a command line tool to record and track behaviours. 
+
+To record a behaviour
+
+> ijust bit my nails
+
+to get reports (`from` and `to` are optional).
+
+> ijust --report 'bit my nails' --from 01/03/2011 --to 01/05/2011
